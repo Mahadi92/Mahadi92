@@ -14,11 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://join.skype.com/invite/VjWgKO3AhwjI" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111609.png" alt="Mahadi92" height="30" width="auto" /></a>
-
-<a href="https://www.linkedin.com/in/mahadi-hasan-937524-mh/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Mahadi92" height="30" width="auto" /></a>
-
-<a href="https://www.facebook.com/profile.php?id=100022929606176" target="_blank"><img align="center" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" alt="Mahadi92" height="30" width="auto" /></a>
+<a href="https://join.skype.com/invite/VjWgKO3AhwjI" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111609.png" alt="Mahadi92" height="30" width="auto" /></a>
+<a href="https://www.linkedin.com/in/mahadi-hasan-937524-mh/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="Mahadi92" height="30" width="auto" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022929606176" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" alt="Mahadi92" height="30" width="auto" /></a>
 <!-- <a href="https://www.hackerrank.com/aj_auntor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="aj_auntor" height="30" width="40" /></a> -->
 </p>
 <h3 align="left">Languages and Tools:</h3>
