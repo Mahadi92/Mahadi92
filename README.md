@@ -35,12 +35,32 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 
-<a href="https://nodejs.org" target="_blank"> 
+<a href="https://expressjs.com/en/starter/hello-world.html" target="_blank"> 
     <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="express" width="40" height="40"/> 
 </a> 
 
-<a href="https://nodejs.org" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="express" width="40" height="40"/> 
+<a href="https://getbootstrap.com/docs/5.0/getting-started/introduction/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="40" height="40"/> 
+</a> 
+
+<a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="https://iconape.com/wp-content/files/an/351546/png/tailwind-css-logo.png" alt="tailwind css" width="40" height="40"/> 
+</a> 
+
+<a href="https://react-redux.js.org/" target="_blank"> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png" alt="react redux" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.w3schools.com/html/" target="_blank"> 
+    <img src="https://www.freeiconspng.com/uploads/html5-icon-1.png" alt="html" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-opencode-css-8.png" alt="css" width="40" height="40"/> 
+</a> 
+
+<a href="https://sass-lang.com/" target="_blank"> 
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/288_Sass_logo-512.png" alt="sass" width="40" height="40"/> 
 </a> 
 
 <a href="https://firebase.google.com/" target="_blank"> 
